@@ -6,8 +6,7 @@ I have experience in data entry, admin support, technical assistance, and data a
 Motivated BTVTEd graduate majoring in
 Computer System Servicing and Programming with experience in data entry, administrative support, and technical assistance. Skilled in using digital tools, MS Office, Google Workspace. Detail-oriented, organized, and responsive in handling tasks remotely. A fast learner with strong communication skills, adaptability, and a commitment to providing efficient and reliable virtual support.
 
-**TECHNICAL SKILLS**
-
+**TECHNICAL SKILLS** <br>
 Reliable data entry using spreadsheets
 Proficient in MS Office and Google Workspace
 Average typing speed of 55 WPM with accuracy
